@@ -1,0 +1,22 @@
+{
+  "wheel_id": 698,
+  "structure": "umbrella",
+  "slug": "seocompaniesinaustralia-112",
+  "project": "seo-services-brisbane-before-you-start-27d649138a0149a890412288",
+  "parent_t1_ref": "seocompaniesinaustralia-157",
+  "node_role": "feeder",
+  "money_target": "seocompaniesinaustralia.com.au",
+  "primary_kw": "seo services brisbane before you start",
+  "intended_url": "https://aumedia.neocities.org/seo-services-brisbane-before-you-start-27d649138a0149a890412288/",
+  "tier": "T2",
+  "writeback_nonce": "40180cb4313e6a24",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/seocompaniesinaustralia-157/",
+      "anchor": "seo services brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
